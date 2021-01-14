@@ -1,0 +1,27 @@
+
+                                  Small HTTP server ver 3.06
+                                  End User License Agreement
+
+
+      The "Small HTTP server" is free software. This means:
+
+     1. All copyrights to "Small HTTP server" are exclusively owned by the author - Max Feoktistov.
+     This software may including the librarry "MD5 Message-Digest Algorithm" that owned by "RSA Data Security, Inc." 
+
+     2. Anyone may use this software ulimited time. 
+
+     3. The "Small HTTP server", may be freely distributed.
+
+     4.  "Small  HTTP  server"  IS  DISTRIBUTED "AS IS". NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED. YOU USE AT YOUR OWN RISK. THE AUTHOR WILL NOT BE LIABLE FOR DATA LOSS, DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING OR MISUSING THIS SOFTWARE.
+
+     5. The source code of this software may be distributed under term of GNU General Public License.
+     
+     6. All rights not expressly granted here are reserved by Max Feoktistov.
+
+     7. Installing and using "Small HTTP server" signifies acceptance of these terms and conditions of the license.
+
+     8. If you do not agree with the terms of this license you must remove "Small HTTP server" files from your storage devices and cease to use the product.
+
+
+                                                              Max Feoktistov
+
